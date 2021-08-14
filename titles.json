@@ -1,6 +1,10 @@
 {
     "titles": [
         {
+            "name": "Masters Sun",
+            "id": "sun"
+        },
+        {
             "name": "Boys Over Flowers",
             "id": "boys"
         },
